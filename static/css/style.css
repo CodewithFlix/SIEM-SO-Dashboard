@@ -1,0 +1,74 @@
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: Inter, Arial, sans-serif;
+}
+
+.dashboard-title {
+  color: #58a6ff;
+  font-weight: 700;
+}
+
+.dashboard-subtitle {
+  color: #8b949e;
+}
+
+.dashboard-card {
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+
+.metric-card {
+  min-height: 140px;
+}
+
+.metric-label {
+  color: #8b949e;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.text-gold {
+  color: #e3b341 !important;
+}
+
+.section-title {
+  color: #e6edf3;
+  font-weight: 600;
+  margin-bottom: 18px;
+}
+
+.chart-box {
+  min-height: 300px;
+}
+
+#topIpsList .list-group-item {
+  background: transparent;
+  border-color: #30363d;
+  color: #c9d1d9;
+}
+
+.ip-badge {
+  background: #21262d;
+  border: 1px solid #30363d;
+  color: #58a6ff;
+  font-family: monospace;
+}
+
+.footer-note {
+  color: #8b949e;
+  font-size: 0.9rem;
+}
+
+.table-dark {
+  --bs-table-bg: transparent;
+  --bs-table-border-color: #30363d;
+}
