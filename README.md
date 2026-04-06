@@ -12,9 +12,8 @@ Simple Flask-based dashboard for monitoring Security Onion Elasticsearch data.
 ## Setup
 1. Create virtual environment
 2. Install dependencies
-3. Copy `.env.example` to `.env`
-4. Fill in your Security Onion credentials
-5. Run app
+3. Fill in your Security Onion credentials
+4. Run app
 
 ## Run
 ```bash
